@@ -1,6 +1,5 @@
-//Vinicius Lopes Nunes CB1640879
-//Diego negrete Alves CB1740229
-
+//Roberto Rodrigues da Silva Junior Cb3000419
+//Rafael Costa Teles Cb1640844
 package tp01;
 
 public class Student extends Person{
